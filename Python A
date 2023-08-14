@@ -1,0 +1,15 @@
+"""
+Created August 14th, 2023
+By David Ji Hoon Kim 
+
+"""
+
+import numpy as np
+import pandas as pd
+from pathlib import Path
+# import seaborn as sns
+# import matplotlib.pyplot as plt
+
+csv_path_file = Path('Documents/Youtube_Data_Analysis/Global_Youtube_Data_Analysis')
+
+test = 'nice'
